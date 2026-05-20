@@ -13,7 +13,7 @@ Maximum of 3 login attempts
 📖 View All Books
 Displays title, author, and availability status
 
-➕ Add New Books
+➕ Add New Books (with uploading time)
 Prevents duplicate book entries
 
 📤 Issue Books
